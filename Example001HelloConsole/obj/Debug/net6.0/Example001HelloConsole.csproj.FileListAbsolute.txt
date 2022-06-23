@@ -1,0 +1,15 @@
+D:\Элвис\Третьяков\Доп. Образование\Examples\Example001HelloConsole\bin\Debug\net6.0\Example001HelloConsole.exe
+D:\Элвис\Третьяков\Доп. Образование\Examples\Example001HelloConsole\bin\Debug\net6.0\Example001HelloConsole.deps.json
+D:\Элвис\Третьяков\Доп. Образование\Examples\Example001HelloConsole\bin\Debug\net6.0\Example001HelloConsole.runtimeconfig.json
+D:\Элвис\Третьяков\Доп. Образование\Examples\Example001HelloConsole\bin\Debug\net6.0\Example001HelloConsole.dll
+D:\Элвис\Третьяков\Доп. Образование\Examples\Example001HelloConsole\bin\Debug\net6.0\Example001HelloConsole.pdb
+D:\Элвис\Третьяков\Доп. Образование\Examples\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.csproj.AssemblyReference.cache
+D:\Элвис\Третьяков\Доп. Образование\Examples\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Элвис\Третьяков\Доп. Образование\Examples\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.AssemblyInfoInputs.cache
+D:\Элвис\Третьяков\Доп. Образование\Examples\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.AssemblyInfo.cs
+D:\Элвис\Третьяков\Доп. Образование\Examples\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.csproj.CoreCompileInputs.cache
+D:\Элвис\Третьяков\Доп. Образование\Examples\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.dll
+D:\Элвис\Третьяков\Доп. Образование\Examples\Example001HelloConsole\obj\Debug\net6.0\refint\Example001HelloConsole.dll
+D:\Элвис\Третьяков\Доп. Образование\Examples\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.pdb
+D:\Элвис\Третьяков\Доп. Образование\Examples\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.genruntimeconfig.cache
+D:\Элвис\Третьяков\Доп. Образование\Examples\Example001HelloConsole\obj\Debug\net6.0\ref\Example001HelloConsole.dll
